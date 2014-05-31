@@ -1,0 +1,35 @@
+{
+    "path": "",
+    "name": "folder2json",
+    "type": "folder",
+    "children": [
+        {
+            "path": "/bin",
+            "name": "bin",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/bin/index.js",
+                    "name": "index.js",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "path": "/demo.js",
+            "name": "demo.js",
+            "type": "file"
+        },
+        {
+            "path": "/dir2json.json",
+            "name": "dir2json.json",
+            "type": "file"
+        },
+        {
+            "path": "/package.json",
+            "name": "package.json",
+            "type": "file"
+        }
+    ],
+    "baseUrl": "http://www.github.com"
+}

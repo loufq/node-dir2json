@@ -1,0 +1,33 @@
+{
+    "name": "dir2json",
+    "description": "make directory file system mapping 2 json file ",
+    "main": "./bin/index.js",
+    "author": "halou",
+    "version": "0.0.1",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/loufq/dir2json.git"
+    },
+    "bugs" : {
+        "url" : "https://github.com/loufq/dir2json/issues"
+    },
+    "licenses" : [
+        {
+            "type" : "MIT",
+            "url" : "https://github.com/loufq/dir2json/raw/master/LICENSE"
+        }
+    ],
+    "devDependencies": {
+    },
+    "jam": {
+        "main": "bin/index.js",
+        "include": [
+            "bin/index.js",
+            "README.md",
+            "LICENSE"
+        ]
+    },
+    "scripts": {
+        
+    }
+}
