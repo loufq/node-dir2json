@@ -5,9 +5,39 @@
 ```javascript
 npm install dir2json-lite -g
 ```
+#### use 2 output
 ```javascript
 dir2json path/to/dir
 ```
+####  dir2json.json output sample
+```javascript
+{
+    "path": "",
+    "name": "folder2json",
+    "type": "folder",
+    "children": [
+        {
+            "path": "/bin",
+            "name": "bin",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/bin/index.js",
+                    "name": "index.js",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "path": "/package.json",
+            "name": "package.json",
+            "type": "file"
+        }
+    ],
+    "baseUrl": ""
+}
+```
+
 ## Quick Examples
 ### install
 ```javascript
@@ -35,7 +65,6 @@ console.log(jsonObj);
 //save file
 var savePath = f2j.save();
 console.log('Done!SavePath:' + savePath);
-
 ```
 ### ref
 * [command-line-utilities-with-nodejs](http://shapeshed.com/command-line-utilities-with-nodejs/)

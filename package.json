@@ -3,7 +3,7 @@
     "description": "make directory file system mapping 2 json file & not Dependencies any other package",
     "main": "./bin/index.js",
     "author": "halou",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/loufq/dir2json.git"
