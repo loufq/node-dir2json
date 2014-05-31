@@ -34,6 +34,6 @@ console.log('Done!SavePath:' + savePath);
 
 ```
 ##ref
--[command-line-utilities-with-nodejs](http://shapeshed.com/command-line-utilities-with-nodejs/)
--[How I make models in Node.js](http://forrst.com/posts/How_I_make_models_in_Node_js_using_Redis_as_dat-90W)
--[ cross-platform build in Node.js](https://gist.github.com/domenic/2790533)
+*[command-line-utilities-with-nodejs](http://shapeshed.com/command-line-utilities-with-nodejs/)
+*[How I make models in Node.js](http://forrst.com/posts/How_I_make_models_in_Node_js_using_Redis_as_dat-90W)
+*[ cross-platform build in Node.js](https://gist.github.com/domenic/2790533)
