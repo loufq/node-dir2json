@@ -1,3 +1,4 @@
 .npmignore
 .gitmodules
 dir2json.json
+node_modules
