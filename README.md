@@ -12,7 +12,7 @@ dir2json path/to/dir
 ####  dir2json.json output sample
 ```javascript
 {
-    "path": "",
+    "path": "path/to/dir",
     "name": "folder2json",
     "type": "folder",
     "children": [
