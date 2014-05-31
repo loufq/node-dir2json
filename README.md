@@ -1,7 +1,7 @@
 # dir2json
 
 ## Use 2 CLI
-# install globel
+### install globel
 ```javascript
 npm install dir2json-lite -g
 ```
@@ -9,7 +9,7 @@ npm install dir2json-lite -g
 dir2json path/to/dir
 ```
 ## Quick Examples
-# install
+### install
 ```javascript
 npm install dir2json-lite --save
 ```
